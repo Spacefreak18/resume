@@ -19,7 +19,7 @@ Engineered an arduino based expansion board which uses the expansion port of the
 .pdfhref W -D https://github.com/spacefreak18/monocoque Monocoque
 .small
 .br
-A cross platform device manager for simulators that can drive simulator hardware devices such as Tachometers, shakers, and custom arduino devices, written in C.
+A cross platform device manager for simulators that can drive simulator hardware devices such as Tachometers, haptic shakers, and custom arduino devices, written in C.
 
 .sp
 .pdfhref W -D https://lore.kernel.org/lkml/20221001221657.gexisc2egjn3mpog@localhost.localdomain/t/ Linux Kernel Patch
@@ -32,3 +32,7 @@ Patch for usb-pid electric motor driver for force feedback wheels (Direct Drive 
 .br
 A static web page content management system with few dependencies written in POSIX compliant shell.
 
+.pdfhref W -D https://github.com/quantopian/zipline Stock Market Algorithms
+.small
+.br
+Developed and backtested stock market algorithms (with moderate success) using python zipline framework
